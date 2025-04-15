@@ -11,3 +11,7 @@
 2. mvn spring-boot:run -Dspring-boot.run.profiles=sit -f pom.xml
 ### Launch the COP
 https://cop-localhost.usps.com:8443/
+
+Swagger:<br>
+https://cop-localhost.usps.com:8443/swagger-ui/index.html
+
