@@ -15,11 +15,16 @@ Create a Tag
 `git tag release-dev3-[tag_name]`
 
 To build under Jenkins for DEV environments use the format;
+
 DEV1 : release-dev-[your tag name]
+
 DEV2 : release-dev2-[your tag name]
+
 DEV3 : release-dev3-[your tag name]
+
  
 [your tag name] refers to your tag name such as [My-Code which would be like:
+
 release-dev3-My-Code
  
 Which would setup DEV3 for "My-Code"
