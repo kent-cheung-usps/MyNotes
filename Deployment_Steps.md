@@ -7,7 +7,9 @@
 
 #### 2. Create a Tag
    `git tag release-dev3-[tag_name]`
+   
    OR
+   
    `git tag -a release-dev3-[tag_name] -m "Message Note"`
 
 #### 3. Push the Tag
